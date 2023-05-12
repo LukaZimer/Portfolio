@@ -1,4 +1,6 @@
-Od kilku miesięcy zgłębiam swoją wiedzę z zakresu zapewnienia jakości (QA). Posiadam wiedzę na temat podstawowych pojęć i sposobu pracy w tym zakresie. Ukończyłem specjalistyczny kurs QA i uzyskałem certyfikat QA. Obecnie jestem na kursie zautomatyzowanych testów w języku JavaScript. Obecnie poszukuję wyzwań w obszarze testowania aplikacji.
+O mnie:
+
+Od kilku miesięcy zgłębiam swoją wiedzę z zakresu zapewnienia jakości (QA). Posiadam wiedzę na temat podstawowych pojęć i sposobu pracy w tym zakresie. Ukończyłem specjalistyczne kursy QA Engineer i QA Automation i uzyskałem z nich certyfikaty. Obecnie poszukuję wyzwań w obszarze testowania aplikacji.
 
 
 Projekt:
